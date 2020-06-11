@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKmRzH3tW8IpKur+oTgW1CFAYDFGcVylzG+9D7KpXZ4+PWWDcm83NbgzL2oB9aFn1XVTxMmqLsNQ6UYcq3TV5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JeremyZelayaRodrigue\\source\\repos\\BlogPostApi\\BlogPostApi\\BlogPostApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeremyZelayaRodrigue\\.nuget\\packages\\mysqlconnector\\0.68.0\\mysqlconnector.0.68.0.nupkg.sha512",
+    "C:\\Users\\JeremyZelayaRodrigue\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
